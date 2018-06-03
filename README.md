@@ -5,9 +5,9 @@ Indice para las presentaciones de los alumnos duales de DAW de la convocatoria d
 [Balsas Martín, David ](https://github.com/davidbalsasmartin/Presentacion-dual)  
 [Bernal Rodríguez, Juan Francisco](https://github.com/jfbernal92/dual1)  
 [Blanco Salgado, Lucía](https://github.com/lucia-blanco/p1DAW)  
-[Bueno Aguilar, Ángeles](https://github.com/angelesbueno/presentacion-empresa)
-[Campos Jurado, Rafael](https://github.com/rafacampjurado/Presentaci-nDual2018)
-[Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez/presentacion-empresa)
+[Bueno Aguilar, Ángeles](https://github.com/angelesbueno/presentacion-empresa)    
+[Campos Jurado, Rafael](https://github.com/rafacampjurado/Presentaci-nDual2018)   
+[Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez/presentacion-empresa)   
 [Burgos García, Denise](https://github.com/Denise98/PROPERLY-DENISE-BURGOS-GARC-A/blob/master/README.md)    
-[Puche Velasco, Alejandro](https://github.com/AlejandroPuche/Presentaci-n-Dual) 
+[Puche Velasco, Alejandro](https://github.com/AlejandroPuche/Presentaci-n-Dual)   
 
