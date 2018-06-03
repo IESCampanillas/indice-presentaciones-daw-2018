@@ -9,3 +9,5 @@ Indice para las presentaciones de los alumnos duales de DAW de la convocatoria d
 [Campos Jurado, Rafael](https://github.com/rafacampjurado/Presentaci-nDual2018)
 [Sánchez Ramírez, Adrián](https://github.com/adriansanchezramirez/presentacion-empresa)
 [Burgos García, Denise](https://github.com/Denise98/PROPERLY-DENISE-BURGOS-GARC-A/blob/master/README.md)
+[Puche Velasco, Alejandro](https://github.com/AlejandroPuche/Presentaci-n-Dual) 
+
