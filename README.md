@@ -14,5 +14,4 @@ Indice para las presentaciones de los alumnos duales de DAW de la convocatoria d
 [Burgos García, Denise](https://github.com/Denise98/PROPERLY-DENISE-BURGOS-GARC-A)   
 [Parejo Ramos, Beatriz](https://github.com/BeatrizPR/Presentacion-empresa-dual)    
 [Puche Velasco, Alejandro](https://github.com/AlejandroPuche/Presentaci-n-Dual)
-
 [Meléndez Bravo, Esther](https://github.com/esthermelendez/VIEWNEXT-Esther_Melendez.git) 
