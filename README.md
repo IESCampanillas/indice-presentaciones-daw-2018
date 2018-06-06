@@ -2,6 +2,7 @@
 
 Indice para las presentaciones de los alumnos duales de DAW de la convocatoria del 2018. Cada alumno debe poner un enlace al repositorio donde tiene su presentación debiendo indicar el nombre completo (primero apellido y después nombre) y en orden de lista.
 
+
 [Balsas Martín, David ](https://github.com/davidbalsasmartin/Presentacion-dual)  
 [Bernal Rodríguez, Juan Francisco](https://github.com/jfbernal92/dual1)  
 [Blanco Salgado, Lucía](https://github.com/lucia-blanco/p1DAW)  
@@ -16,4 +17,5 @@ Indice para las presentaciones de los alumnos duales de DAW de la convocatoria d
 [Parejo Ramos, Beatriz](https://github.com/BeatrizPR/Presentacion-empresa-dual)    
 [Puche Velasco, Alejandro](https://github.com/AlejandroPuche/Presentaci-n-Dual) 
 [Villalba Sánchez, Adrián](https://github.com/AdrianVillalbaSanchez/Presentacion-Dual-2018)
+
 
