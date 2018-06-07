@@ -18,5 +18,6 @@ Indice para las presentaciones de los alumnos duales de DAW de la convocatoria d
 [Puche Velasco, Alejandro](https://github.com/AlejandroPuche/Presentaci-n-Dual)  
 [Ruiz López, Alejandro](https://github.com/AleRui/Exp_Dual_Empresa_Solbyte.git)  
 [Villalba Sánchez, Adrián](https://github.com/AdrianVillalbaSanchez/Presentacion-Dual-2018)
+[Zambrana Jiménez, Manuel](https://github.com/manuelzambrana/Presentacion)
 
 
